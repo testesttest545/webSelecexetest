@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>WebSelec</AssemblyName>
+    <RootNamespace>WebSelec</RootNamespace>
+    <Version>1.0.0</Version>
+    <AssemblyTitle>WebSelec — Red Forest</AssemblyTitle>
+    <Product>WebSelec</Product>
+    <Company>Cat</Company>
+  </PropertyGroup>
+</Project>
